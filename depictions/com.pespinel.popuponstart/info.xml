@@ -1,0 +1,21 @@
+<package>
+	<id>com.pespinel.popuponstart</id>
+	<name>PopupOnStart</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Simple Tweak that displays a popup every time the device boots or respring in a jailbroken state
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

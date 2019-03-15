@@ -1,0 +1,16 @@
+Package: com.pespinel.popuponstart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: pabloecab
+Installed-Size: 232
+Depends: mobilesubstrate
+Filename: ./debs/com.pespinel.popuponstart_1.0_iphoneos-arm.deb
+Size: 17958
+MD5sum: eba9c5f72cb7dc175e4c1bd34b06997b
+SHA1: 93ff33d33f333221c90abe17ac7f9e244801fac9
+SHA256: 51d1cade1fe2ef0b3ab7f019f86353c2d630a59771a2db6f146174ba959e7319
+Section: Tweaks
+Description: Simple Tweak that displays a popup every time the device boots or respring in a jailbroken state
+Author: pabloecab
+Name: PopupOnStart
+Depiction: https://pabloecab.github.io/depictions/?p=com.pespinel.popuponstart

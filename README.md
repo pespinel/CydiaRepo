@@ -1,2 +1,2 @@
-# pabloecab.github.io
-Cydia repo
+# Cydia repo
+Personal cydia repository for my tweaks
