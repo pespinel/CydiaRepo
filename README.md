@@ -1,2 +1,2 @@
-# Cydia repo
-Personal cydia repository for my tweaks
+# Cydia repository
+Personal Cydia repository for my tweaks
